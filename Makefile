@@ -1,7 +1,7 @@
 # Update these variables to match the locations
-JUNIT_JAR=/Users/wonyoungkim/Desktop/Final/Project_CS152/junit-4.12.jar
-HAMCREST_JAR=/Users/wonyoungkim/Desktop/Final/Project_CS152/hamcrest-core-1.3.jar
-ANTLR_JAR=/Users/wonyoungkim/Desktop/Final/Project_CS152/antlr-4.8-complete.jar
+JUNIT_JAR=YOURLOCATION/junit-4.12.jar
+HAMCREST_JAR=YOURLOCATION/hamcrest-core-1.3.jar
+ANTLR_JAR=YOURLOCATION/antlr-4.8-complete.jar
 
 # These variables should not need to be changed
 GRAMMAR_NAME=FeatherweightJavaScript
